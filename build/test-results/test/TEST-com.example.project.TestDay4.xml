@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.TestDay4" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-20T16:25:54" hostname="codespaces-676a2c" time="0.008">
+  <properties/>
+  <testcase name="testSimulateRaceLongerDuration()" classname="com.example.project.TestDay4" time="0.002"/>
+  <testcase name="testSimulateSecondRunning()" classname="com.example.project.TestDay4" time="0.001"/>
+  <testcase name="testReindeerCreation()" classname="com.example.project.TestDay4" time="0.001"/>
+  <testcase name="testSimulateRaceWithHardcodedReindeers()" classname="com.example.project.TestDay4" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
